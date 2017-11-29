@@ -4,23 +4,82 @@ ref: index
 lang: en
 ---
 
+
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+<div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
+  <div class="scrim {% if site.cover %}has-cover{% endif %}">
+    <header class="site-header">
+      <h1 class="title">{{ site.title }}</h1>
+      {% for sbt in site.subtitle %}<p class="subtitle">{{ sbt }}</p>{% endfor %}
+    </header>
+  </div>
+</div>
 
-  <ul class="post-list">
+<div class="wrapper">
+
+<h2> Bienvenido a la Plataforma de Estudios y Análisis sobre Colombia y sus Ecosistemas </h2>
+
+{% include page_divider.html %}
+
+<p>
+PEACE es una iniciativa promovida por un grupo de académicos para entender el efecto de los actuales
+cambios socio-económicos sobre los ecosistemas Colombianos.
+</p>
+
+<p>
+Colombia está atravesando actualmente por un periodo histórico de grandes transformaciones
+políticas, sociales, económicas y ambientales; sin embargo no sabemos exactamente cuáles
+son las consecuencias de estas transformaciones en los recursos naturales,
+la diversidad biológica y el capital ambiental del país. No es claro si estos cambios
+sociales y políticos están llevando a la degradación de los ecosistemas naturales
+del país o si por el contrario ellos están ayudando a la conservación de las áreas
+naturales. Imágenes satelitales recientes dan evidencia de que las tasas de deforestación
+y los fuegos están aumentando a niveles sin precedentes en el país y no está claro
+cuáles son las consecuencias de estos cambios en el agua, la biodiversidad de
+especies, el clima, los suelos y la seguridad alimentaria de Colombia.
+</p>
+
+<p>
+PEACE propone la creación de tres programas estratégicos para Colombia:
+
+<ol>
+  <li><b>CES:</b> Centro de Síntesis Ecológica, el cual debe generar información
+      útil basado en la variedad de información ambiental existente, </li>
+
+  <li> <b>EOC</b> Observatorio Ecológico para Colombia, el cual debe generar nueva
+       información de forma consistente a través de los diversos ecosistemas de Colombia,</li>
+
+  <li> <b>PDA</b> Plataformas de Diálogo y Acción para conectar diferentes actores,
+       generar discusión y promover acciones para el conocimiento y la protección de los ecosistemas naturales de Colombia.</li>
+</ol>
+</p>
+
+<p>
+La idea general de esta iniciativa está desarrollada en el artículo:
+
+<ul>
     {% assign posts=site.posts | where:"lang", page.lang %}
     {% for post in posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <li>Sierra, C. A., Mahecha, M., Poveda, G., Álvarez-Dávila, E., Gutierrez-Velez Vı́ctor H.,
+      Reu, B., Feilhauer, H., Anáya, J., Armenteras, D., Benavides, A.M., Buendia, C., Duque, A.,
+      Estupiñan-Suarez, L.M., González, C., Gonzalez-Caro, S., Jimenez, R., Kraemer, G., Londoño, M.C.,
+      Orrego, S.A., Posada, J.M., Ruiz-Carrascal, C.D., Skowronek, S. (2017). Monitoring ecological change during rapid socio-economic
+      and political transitions: Colombian ecosystems in the post-conflict era. Environmental Science and Policy, 76, 40–49.
+      <a href="http://www.sciencedirect.com/science/article/pii/S1462901117303805"> doi:10.1016/j.envsci.2017.06.011 </a>
+  </li>
+</ul>
+</p>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+{% include page_divider.html %}
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<h2> Con el apoyo de:</h2>
+<div class="row">
+ <div class="col-md-6"><a href="https://www.bmbf.de/en/index.html"><img class="img-responsive" src="{{site.baseurl}}/assets/BMBF_Logo.png" width="50"></a>
+ </div>
+ <div class="col-md-6"><a href="http://www.bgc-jena.mpg.de/"><img class="img-responsive" src="{{site.baseurl}}/assets/MPI.png" width="100"></a>
+ </div>
+</div>
+
 
 </div>
