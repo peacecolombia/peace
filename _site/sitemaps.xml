@@ -35,7 +35,7 @@
         <loc>/a-propos.html</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="fr" href="/a-propos.html" />
+          <xhtml:link rel="alternate" hreflang="es" href="/a-propos.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/about/" />
         
@@ -48,7 +48,7 @@
         <loc>/about/</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="fr" href="/a-propos.html" />
+          <xhtml:link rel="alternate" hreflang="es" href="/a-propos.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/about/" />
         
@@ -61,7 +61,7 @@
         <loc>/accueil.html</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
+          <xhtml:link rel="alternate" hreflang="es" href="/accueil.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/" />
         
@@ -92,7 +92,7 @@
         <loc>/</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
+          <xhtml:link rel="alternate" hreflang="es" href="/accueil.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/" />
         
