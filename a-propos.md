@@ -1,20 +1,21 @@
 ---
 layout: page
-title: À propos
-ref: about
+title: Reuniones 
+ref: meetings
 lang: es
 ---
 
-Ceci est le thème par défaut de Jekyll. Vous pouvez en savoir plus sur les façons de personnaliser votre propre thème, ainsi que la documation de Jekyll sur [jekyllrb.com](http://jekyllrb.com/)
+## Reuniones pasadas
 
-Vous pouvez trouver ce thème multilingue sur :
-{% include icon-github.html username="sylvaindurand" %} /
-[multilingual-jekyll](https://github.com/sylvaindurand/multilingual-jekyll)
+* PEACE fue el resultado de una primera reunión realizada en Medellín en noviembre de 2016.
+  Esta reunión tuvo dos partes, un simposio de un día y un taller de una semana.
+  Información sobre la reunión puede obtenerse en el siguiente [enlace](https://www.bgc-jena.mpg.de/EOS/).
 
-Vous pouvez trouver le code source de ce nouveau thème Jekyll sur :
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+* Las primeras ideas que surgieron de esta iniciativa se presentaron en el
+  [Congreso Internacional de Biología de la Conservación](https://conbio.org/mini-sites/iccb-2017/)
+  realizado en Cartagena, Colombia, en Julio de 2017.
 
-Enfin, le code source de Jekyll est présenté sur
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+## Reuniones futuras
+
+En este momento no hay reuniones programadas. Información sobre futuras reuniones se
+publicarán en esta página.

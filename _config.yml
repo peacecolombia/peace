@@ -23,8 +23,9 @@ subtitle:
 email: csierra@bgc-jena.mpg.de
 name: Carlos A. Sierra
 description:
-  en: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-  es: Écrivez une super description de votre nouveau site ici. Vous pouvez modifier cette ligne dans _config.yml. Elle apparaîtra dans la balise meta description (pour les résultats sur Google) et dans le fil RSS feed.xml.
+  en: Platform for Ecological Analyses on Colombian Ecosystems
+#Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+  es: Plataforma de Estudios y Análisis sobre Colombia y sus Ecosistemas
 index:
   en: index.html
   es: accueil.html
