@@ -5,8 +5,6 @@ ref: members/
 lang: en
 ---
 
-## Works?
-
 {% assign sortedPerson=site.data.people | sort %}
 {% for p in sortedPerson %}
 {% assign person=p[1] %}
