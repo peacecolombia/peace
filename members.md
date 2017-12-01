@@ -17,5 +17,6 @@ lang: en
 
 
 
-## Future members
-If you are interested in being part of our research group, send us an email with your CV and your research interests.
+## Futuros miembros
+Si están insteresados en unirse a esta iniciativa, contáctenos mediante correo electrónico.
+
