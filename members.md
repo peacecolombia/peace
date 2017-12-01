@@ -5,8 +5,6 @@ ref: members/
 lang: en
 ---
 
-## It works!
-
 {% for p in site.data.people %}
 {% assign person=p[1] | sort: p.Name %}
 <div class="row">
