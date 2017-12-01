@@ -1,0 +1,42 @@
+Esteban:
+      Name: "Esteban Alvarez Dávila"
+      Affiliation: "Universidad Nacional Abierta y a Distancia UNAD"
+      pictureFileStem: Esteban
+      email: esalvarez3000@gmail.com
+      url: https://scholar.google.de/citations?user=snpxbKwAAAAJ&hl=en&oi=ao
+Hannes: 
+      Name: "Hannes Feilhauer"
+      Affiliation: "Friedrich-Alexander-University Erlangen-Nuremberg"
+      pictureFileStem: hannes
+      email: hannes.feilhauer@fau.de
+      url: http://www.geographie.nat.uni-erlangen.de/personen/hannes-feilhauer/?lang=en
+Victor:
+     Name: "Victor H. Gutierrez Velez"
+     Affiliation: "Temple University"
+     pictureFileStem: victor
+     email: victorhugo@temple.edu
+     url: http://www.cla.temple.edu/gus/vhgv/
+Miguel:
+      Name: "Miguel Mahecha"
+      Affiliation: "Max Planck Institute for Biogeochemistry"
+      pictureFileStem: Miguel
+      email: mmahecha@bgc-jena.mpg.de
+      url: https://www.bgc-jena.mpg.de/bgi/index.php/People/MiguelMahecha
+German:
+      Name: "Germán Poveda"
+      Affiliation: "Universidad Nacional de Colombia sede Medellín"
+      pictureFileStem: German
+      email: gpoveda@unal.edu.co
+      url: http://www.docentes.unal.edu.co/gpoveda/
+Carlos:
+      Name: "Carlos A. Sierra"
+      Affiliation: "Max Planck Institute for Biogeochemistry"
+      pictureFileStem: Sierra
+      email: csierra@bgc-jena.mpg.de
+      url: http://www.bgc-jena.mpg.de/TEE/index.html
+Bjoern:
+     Name: "Björn Reu"
+     Affiliation: "Universidad Industrial de Santander"
+     pictureFileStem: Bjoern
+     email: breu@uis.edu.co
+     url: http://biologia.uis.edu.co/
