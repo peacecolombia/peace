@@ -9,9 +9,7 @@ exclude:
   - "posts.html"
 
 # Site settings
-title:
-  en: PEACE
-  es: PEACE
+title: PEACE
 subtitle:
   en: Platform for Ecological Analyses on Colombian Ecosystems
   es: Plataforma de Estudios y Análisis sobre Colombia y sus Ecosistemas
