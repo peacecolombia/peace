@@ -11,7 +11,7 @@ lang: en
   <div class="scrim {% if site.cover %}has-cover{% endif %}">
     <header class="site-header">
       <h1 class="title">{{ site.title }}</h1>
-      {% for sbt in site.subtitle | where:"lang", page.lang %}<p class="subtitle">{{ sbt }}</p>{% endfor %}
+      {% for sbt in site.subtitle | where:"ref", page.ref | sort: 'lang' %}<p class="subtitle">{{ sbt }}</p>{% endfor %}
     </header>
   </div>
 </div>
