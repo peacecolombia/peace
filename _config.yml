@@ -7,12 +7,6 @@
 exclude:
   - "/vendor/"
   - "posts.html"
-  - Gemfile
-  - Gemfile.lock
-  - README
-  - deploy
-  - LICENSE.md
-  - circle.yml
 
 # Site settings
 title:
@@ -36,8 +30,6 @@ feed:
 baseurl: "/peace" # the subpath of your site, e.g. /blog
 #url: "peace" # the base hostname & protocol for your site
 cover: "/assets/cispata.jpg"
-#twitter_username: 
-#github_username:  
 social:
   - name: Twitter
     icon: twitter
