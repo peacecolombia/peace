@@ -10,6 +10,21 @@
   <meta name="copyright" content="&copy; {{ site.name }} {{ site.time | date: '%Y' }}">
   {% endif %}
 
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}{% for post in posts %}
+  <link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url }}" />{% endfor %}
+  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}{% for page in pages %}
+  <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />{% endfor %}
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title[page.lang] }}" href="{{ site.feed[page.lang] | prepend: site.baseurl | prepend: site.url }}">
+
+  <!-- External libraries -->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.5/styles/{{ site.highlightjs_theme }}.min.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+
+
   <!-- Favicon and other icons (made with http://www.favicon-generator.org/) -->
   <link rel="shortcut icon" href="{{ "/assets/icons/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
   <link rel="icon" href="{{ "/assets/icons/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
@@ -61,10 +76,8 @@
   <meta property="os:src" content="{{ protocols.os_src }}" />
   {% endif %}
 
+  <!-- Site styles -->
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}{% for post in posts %}
-  <link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url }}" />{% endfor %}
-  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}{% for page in pages %}
-  <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />{% endfor %}
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title[page.lang] }}" href="{{ site.feed[page.lang] | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 </head>
