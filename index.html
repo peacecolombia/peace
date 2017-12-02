@@ -11,7 +11,7 @@ lang: en
   <div class="scrim {% if site.cover %}has-cover{% endif %}">
     <header class="site-header">
       <h1 class="title">{{ site.title }}</h1>
-      {% for sbt in site.subtitle | where:"ref", page.ref | sort: 'lang' %}<p class="subtitle">{{ sbt }}</p>{% endfor %}
+      {% for sbt in site.subtitle | sort: 'lang' %}<p class="subtitle">{{ sbt }}</p>{% endfor %}
     </header>
   </div>
 </div>
@@ -23,7 +23,7 @@ lang: en
 {% include page_divider.html %}
 
 <p>
-PEACE is an initiative promoted by a group of researchers, to understand the effect of the current socio-economic changes on the colombian  ecosystems.
+PEACE is an initiative promoted by a group of researchers, to understand the effect of the current socio-economic changes on the colombian ecosystems.
 </p>
 
 <p>
