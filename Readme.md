@@ -15,5 +15,5 @@ versión de la página para verificar que los cambios se han hecho correctamente
 
 
 ## Contacto
-En caso de preguntas o sugerencias, contactar a [Veronika Ceballos](vceball@bgc-jena.mpg.de) o [Carlos Sierra](csierra@bgc-jena.mpg.de).
+En caso de preguntas o sugerencias, contactar a Veronika Ceballos <vceball@bgc-jena.mpg.de> o Carlos Sierra <csierra@bgc-jena.mpg.de>.
 
