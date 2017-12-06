@@ -1,32 +1,19 @@
-# Multilingual Jekyll
+# PEACE: Plataforma de Estudios y Analisis sobre Colombia y sus Ecosistemicas
 
-This repository aims to show how to get a minimal multilingual *Jekyll* website.
+Este repositorio contiene todos los archivos relacionados con la pagina web de la iniciativa PEACE.
+Para descargar este repositorio, debe tener [git](https://git-scm.com/) instalado en su computador, en la 
+consola debe escribir el comando
 
-It is based on the [**Making *Jekyll* multilingual**](https://www.sylvaindurand.org/making-jekyll-multilingual/) article, applied on the [Jekyll default theme](https://github.com/jglovier/jekyll-new).
+```
+git clone https://github.com/peacecolombia/peace.git
+``` 
 
-You can check the demo on [sylvaindurand.github.io/jekyll-multilingual/](https://sylvaindurand.github.io/jekyll-multilingual/).
-
-
-## Make your website multilingual
-
-1. Have a look at the article [Making *Jekyll* multilingual](https://www.sylvaindurand.org/making-jekyll-multilingual/), which explains how things work
-2. Check the [diff for Jekyll 3.1.x](https://github.com/sylvaindurand/jekyll-multilingual/commit/111495e91e8986db21368e54a42188cdbbc44b6f) (older versions: [3.0.x](https://github.com/sylvaindurand/jekyll-multilingual/commit/b2da2a07c325a1b6e01f524dad6582f2daf70ccf), [2.5.x](https://github.com/sylvaindurand/jekyll-multilingual/commit/e0bed79df22d2d35a75d0906e2c9c2baeac44a73))
-3. Reproduce it on your website!
+## Como contribuir a la página web?
+Una vez tenga todos los archivos de la página web, puede hacer cambios localmente en su computador. La pagina we genera
+utilizando el programa [jekyll](https://jekyllrb.com/). Con el comando `jekyll serve` puede generar localmente una 
+versión de la página para verificar que los cambios se han hecho correctamente. Posteriormente puede hacer un [pull request](https://help.github.com/articles/about-pull-requests/).
 
 
-## Create a multilingual website from stratch
+## Contacto
+En caso de preguntas o sugerencias, contactar a [Veronika Ceballos](vceball@bgc-jena.mpg.de) o [Carlos Sierra](csierra@bgc-jena.mpg.de).
 
-1. Still have a look at the article [Making *Jekyll* multilingual](https://www.sylvaindurand.org/making-jekyll-multilingual/), which explains how things work!
-2. Clone the repo: `git clone https://github.com/sylvaindurand/jekyll-multilingual.git`
-3. Open the folder: `cd jekyll-multilingual`
-4. Remove `Readme.md` and `jekyll-multilingual.gemspec`, which are useless outside this repository
-5. Build the website: `jekyll build`
-
-## Colophon
-
-After having written an article about having a multilingual *Jekyll* website, [sigul](https://talk.jekyllrb.com/t/a-vanilla-jekyll-theme-multilingual-with-no-plugins/) gave the idea to provide a minimal working example. Here we are!
-
-The [source code](https://github.com/sylvaindurand/jekyll-multilingual) is freely available on [GitHub](https://github.com/sylvaindurand/jekyll-multilingual). The *Jekyll* default theme is released under the MIT License, such as the modifications shown in this repository.
-
-## Question?
-Please feel free to [open an issue](https://github.com/sylvaindurand/jekyll-multilingual/issues) or to [push a commit](https://github.com/sylvaindurand/jekyll-multilingual/pulls).
