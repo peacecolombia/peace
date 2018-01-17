@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meetings
-permalink: /meetings/
+permalink: meetings/
 ref: meetings
 lang: en
 ---
