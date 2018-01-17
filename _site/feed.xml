@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Platform for Ecological Analyses on Colombian Ecosystems PEACE</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <title>PEACE</title>
+    <description>Platform for Ecological Analyses on Colombian Ecosystems</description>
     <link>http://localhost:4000/peace/</link>
     <atom:link href="http://localhost:4000/peace/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Nov 2017 18:21:16 -0500</pubDate>
-    <lastBuildDate>Thu, 30 Nov 2017 18:21:16 -0500</lastBuildDate>
+    <pubDate>Wed, 17 Jan 2018 13:44:42 +0100</pubDate>
+    <lastBuildDate>Wed, 17 Jan 2018 13:44:42 +0100</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
     
@@ -27,7 +27,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 29 Feb 2016 03:48:44 -0500</pubDate>
+        <pubDate>Mon, 29 Feb 2016 09:48:44 +0100</pubDate>
         <link>http://localhost:4000/peace/jekyll/update/2016/02/29/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://localhost:4000/peace/jekyll/update/2016/02/29/welcome-to-jekyll.html</guid>
         

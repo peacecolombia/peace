@@ -10,7 +10,7 @@
         
           <xhtml:link rel="alternate" hreflang="fr" href="/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html" />
         
-        <lastmod>2016-02-29T03:48:44-05:00</lastmod>
+        <lastmod>2016-02-29T09:48:44+01:00</lastmod>
         <changefreq>weekly</changefreq>
       </url>
     
@@ -24,37 +24,11 @@
         
           <xhtml:link rel="alternate" hreflang="fr" href="/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html" />
         
-        <lastmod>2016-02-29T03:48:44-05:00</lastmod>
+        <lastmod>2016-02-29T09:48:44+01:00</lastmod>
         <changefreq>weekly</changefreq>
       </url>
     
   
-  
-    
-      <url>
-        <loc>/a-propos.html</loc>
-        
-        
-          <xhtml:link rel="alternate" hreflang="es" href="/a-propos.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/about/" />
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>/about/</loc>
-        
-        
-          <xhtml:link rel="alternate" hreflang="es" href="/a-propos.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/about/" />
-        
-        <changefreq>weekly</changefreq>
-      </url>
-    
   
     
       <url>
@@ -64,6 +38,32 @@
           <xhtml:link rel="alternate" hreflang="es" href="/accueil.html" />
         
           <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/contact/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/contact/" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/contacto.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/contacto.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/contact/" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/contacto.html" />
         
         <changefreq>weekly</changefreq>
       </url>
@@ -104,6 +104,58 @@
       <url>
         <loc>/css/main.css</loc>
         
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/meetings/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/meetings/" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/reuniones.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/members.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/members.html" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/miembros.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/miembros.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/members.html" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/miembros.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/reuniones.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/meetings/" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/reuniones.html" />
         
         <changefreq>weekly</changefreq>
       </url>
