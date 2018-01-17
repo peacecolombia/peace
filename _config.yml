@@ -29,7 +29,7 @@ feed:
   en: /feed.xml
   es: /flux.xml
 baseurl: "/peace" # the subpath of your site, e.g. /blog
-#url: "peace" # the base hostname & protocol for your site
+url: "www.peacecolombia.org" # the base hostname & protocol for your site
 cover: "/assets/cispata.jpg"
 social:
   - name: Twitter
