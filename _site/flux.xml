@@ -3,11 +3,11 @@
   <channel>
     <title>PEACE</title>
     <description>Plataforma de Estudios y Análisis sobre Colombia y sus Ecosistemas</description>
-    <link>http://localhost:4000/peace/</link>
-    <atom:link href="http://localhost:4000/peace/flux.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jan 2018 13:44:42 +0100</pubDate>
-    <lastBuildDate>Wed, 17 Jan 2018 13:44:42 +0100</lastBuildDate>
-    <generator>Jekyll v3.6.2</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/flux.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 17 Jan 2018 17:41:20 +0100</pubDate>
+    <lastBuildDate>Wed, 17 Jan 2018 17:41:20 +0100</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
     
     
   </channel>
