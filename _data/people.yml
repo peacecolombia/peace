@@ -44,12 +44,14 @@ Carlos:
       pictureFileStem: Sierra
       email: csierra@bgc-jena.mpg.de
       url: http://www.bgc-jena.mpg.de/TEE/index.html
+      Perfil: 
+      Profile: 
 Bjoern:
-     Name: "Björn Reu"
-     Affiliation: "Universidad Industrial de Santander"
-     pictureFileStem: Bjoern
-     email: breu@uis.edu.co
-     url: http://biologia.uis.edu.co/
+      Name: "Björn Reu"
+      Affiliation: "Universidad Industrial de Santander"
+      pictureFileStem: Bjoern
+      email: breu@uis.edu.co
+      url: http://biologia.uis.edu.co/
       Perfil: 
       Profile: 
 Veronika:
