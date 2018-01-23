@@ -23,14 +23,18 @@ description:
 #Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
   es: Plataforma de Estudios y Análisis sobre Colombia y sus Ecosistemas
 index:
-  en: 
-  es: accueil.html
+  en: accueil.html 
+  es: index.html
 feed:
   en: /feed.xml
   es: /flux.xml
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.peacecolombia.org" # the base hostname & protocol for your site
-cover: "/assets/cispata.jpg"
+cover: "/assets/paramo.jpg"
+logo: "/assets/peaceFinger.jpg"
+flag:
+  en: "/assets/United-States.png"
+  es: "/assets/Colombia.png"
 social:
   - name: Twitter
     icon: twitter
