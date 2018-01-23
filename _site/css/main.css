@@ -643,3 +643,31 @@ pre code.hljs {
           margin-right: 0; } }
     .site-footer .site-signature a {
       text-decoration: underline; }
+
+.col-md-auto {
+  padding: 0 15px 0 15px;
+  float: left; }
+
+/* 1 item */
+.col-md-auto:first-child:nth-last-child(1) {
+  width: 100%; }
+
+/* 2 items */
+.col-md-auto:first-child:nth-last-child(2),
+.col-md-auto:first-child:nth-last-child(2) ~ div {
+  width: 50%; }
+
+/* 3 items */
+.col-md-auto:first-child:nth-last-child(3),
+.col-md-auto:first-child:nth-last-child(3) ~ .col-md-auto {
+  width: 33.3333%; }
+
+/* 4 items */
+.col-md-auto:first-child:nth-last-child(4),
+.col-md-auto:first-child:nth-last-child(4) ~ .col-md-auto {
+  width: 25%; }
+
+/* 5 items */
+.col-md-auto:first-child:nth-last-child(5),
+.col-md-auto:first-child:nth-last-child(5) ~ .col-md-auto {
+  width: 20%; }
