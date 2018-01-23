@@ -35,9 +35,9 @@
         <loc>/accueil.html</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="es" href="/accueil.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="/accueil.html" />
         
-          <xhtml:link rel="alternate" hreflang="en" href="/" />
+          <xhtml:link rel="alternate" hreflang="es" href="/" />
         
         <changefreq>weekly</changefreq>
       </url>
@@ -92,9 +92,9 @@
         <loc>/</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="es" href="/accueil.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="/accueil.html" />
         
-          <xhtml:link rel="alternate" hreflang="en" href="/" />
+          <xhtml:link rel="alternate" hreflang="es" href="/" />
         
         <changefreq>weekly</changefreq>
       </url>
