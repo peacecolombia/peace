@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+        <loc>/jekyll/update/2016/02/29/welcome-to-jekyll.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/jekyll/update/2016/02/29/welcome-to-jekyll.html" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html" />
+        
+        <lastmod>2016-02-29T09:48:44+01:00</lastmod>
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/jekyll/update/2016/02/29/welcome-to-jekyll.html" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html" />
+        
+        <lastmod>2016-02-29T09:48:44+01:00</lastmod>
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+  
+    
+      <url>
+        <loc>/accueil.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/accueil.html" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/carta.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/carta.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/contact/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/contact/" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/contacto.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/contacto.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/contact/" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/contacto.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/feed.xml</loc>
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/flux.xml</loc>
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/accueil.html" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/css/main.css</loc>
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/meetings/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/meetings/" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/reuniones.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/members.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/members.html" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/miembros.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/miembros.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/members.html" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/miembros.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/prensa.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/prensa.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/press.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/press.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/prensa.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/press.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/reuniones.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/meetings/" />
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/reuniones.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/sitemaps.xml</loc>
+        
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+  </urlset>
