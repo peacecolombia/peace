@@ -8,6 +8,7 @@
 exclude:
   - "/vendor/"
   - "posts.html"
+plugins: ['jekyll/scholar']
 
 # Site settings
 title: 
@@ -35,6 +36,26 @@ logo: "/assets/peaceFinger.jpg"
 flag:
   en: "/assets/United-States.png"
   es: "/assets/Colombia.png"
+
+#Jekyll Scholar settings
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: /_bibliography
+  bibliography: peace_refs.bib
+  # look for a bib.html in the layout folder
+  bibliography_template: bib
+  # bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+  query: "@*"
+
+
 social:
   - name: Twitter
     icon: twitter

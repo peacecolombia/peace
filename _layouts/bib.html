@@ -1,0 +1,12 @@
+---
+---
+{{ reference }}
+<!--{% if entry.abstract %}
+<p>{{ entry.abstract }}</p>
+{% endif %}
+-->
+{% if entry.url%}
+    <a href="{{ entry.url}}" target="_blank"><i class="fa fa-external-link"></i></a>
+{% elsif entry.doi%}
+    <a href="http://doi.org/{{ entry.doi }}" target="_blank"><i class="fa fa-external-link"></i></a>
+{% endif %}

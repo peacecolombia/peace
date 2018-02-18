@@ -24,8 +24,8 @@
 
 - Name: "Lina M. Estupiñán-Suárez"
   Affiliation: Instituto de Investigación de Recursos Biológicos Alexander von Humboldt
-  pictureFileStem: 
+  #pictureFileStem: 
   email: lestupinan@humboldt.org.co
-  url:  https://www.researchgate.net/profile/Lina_Estupinan_Suarez http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001427255 
+  url:  https://www.researchgate.net/profile/Lina_Estupinan_Suarez #http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001427255 
   Perfil: "Mi interés de investigación se centra en la integración de información de ecosistemas y temas de biodiversidad con sensores remotos, variables climáticas o información de modelos que ayuden a estudiar la dinámica espacio temporal de los ecosistemas, evaluar sus cambios y desarrollar indicadores que orienten la toma de decisiones en pro de su conservación o uso sostenible." 
   Profile: "My research topics are addressed to ecosystems and biodiversity data integration with remote sensing, climatic variables or environmental models aiming to provide a more complete understanding of spatio temporal ecosystem dynamics, assess changes over time and develop indicators to support decision making for conservation and sustainable use."

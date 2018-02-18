@@ -45,6 +45,17 @@
   
     
       <url>
+        <loc>/carta.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/carta.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
         <loc>/contact/</loc>
         
         
@@ -143,6 +154,32 @@
           <xhtml:link rel="alternate" hreflang="en" href="/members.html" />
         
           <xhtml:link rel="alternate" hreflang="es" href="/miembros.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/prensa.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/prensa.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/press.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/press.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="es" href="/prensa.html" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/press.html" />
         
         <changefreq>weekly</changefreq>
       </url>
