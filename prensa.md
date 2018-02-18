@@ -15,5 +15,6 @@ lang: es
 
 ## Publicaciones científicas
 
+<!--
 {% bibliography %}
-
+-->
