@@ -14,6 +14,6 @@ lang: en
 {% endfor %}
 
 ## Scientific publications
-<!--
+
 {% bibliography %}
--->
+
