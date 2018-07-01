@@ -5,7 +5,7 @@ ref: press
 lang: en
 ---
 
-## News papers and press releases
+## Newspapers and press releases
 
 {% for article in site.data.articles %}
  <a href="{{ article.url}}"> {{article.title}}  </a>

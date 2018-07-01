@@ -15,7 +15,15 @@ lang: es
   [Congreso Internacional de Biología de la Conservación](https://conbio.org/mini-sites/iccb-2017/)
   realizado en Cartagena, Colombia, en Julio de 2017.
 
+* Una segunda reunión se llevó a cabo en Bogotá en noviembre de 2017. Esta reunión fué organizada por el Instituto de
+  investigación Alexander von Humboldt. 
+
 ## Reuniones futuras
 
+* Integración de observaciones de la tierra para la toma de desiciones en biodiversidad en Colombia. Bogotá, Julio 18 y 19, 2018. Organizado por Temple University y el Instituto de Investigación Alexander von Humboldt. Contacto:
+  Victor Gutierrez (tug61163@temple.edu).
+
+<!--
 En este momento no hay reuniones programadas. Información sobre futuras reuniones se
 publicarán en esta página.
+-->
