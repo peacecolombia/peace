@@ -32,7 +32,7 @@ feed:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.peacecolombia.org" # the base hostname & protocol for your site
 cover: "/assets/paramo.jpg"
-logo: "/assets/peaceFinger.jpg"
+#logo: "/assets/peaceFinger.jpg"
 flag:
   en: "/assets/United-States.png"
   es: "/assets/Colombia.png"
