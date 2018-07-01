@@ -16,16 +16,16 @@ versión de la página para verificar que los cambios se han hecho correctamente
 
 ## Estructura
 Este repositorio tiene dos ramas (branches), `master` y `sources`. Todos los archivos con el código fuente estan 
-guardados en `sources` y la pagina web compilada esta en `master`. Pare hacer cambios a la página web, 
-debe cambiarse a `sources` usando el comando `git branch sources`. Ahi se hacen cambios y se genera la 
-página con los comandos `git serve` o `git build`. Estos archivos se guardan automaticamente en la 
+guardados en `sources` y la página web compilada esta en `master`. Para hacer cambios a la página web, 
+debe cambiarse a `sources` usando el comando `git branch sources`. Allí se hacen cambios y se genera la 
+página con los comandos `git serve` o `git build`. Estos archivos se guardan automáticamente en la 
 carpeta `_site`, la cual es ignorada en `sources` en el archivo `.gitignore`. 
 Los cambios al código fuente pueden actualizarse en el repositorio con la secuencia:
 
 ```
 git add .
-git commit - m "Changes to source code"
-git push origin source
+git commit -m "Changes to source code"
+git push origin sources
 ```
 
 Ahora solo necesitamos actualizar `master` para que la página se actualize en el servidor. Para esto:
