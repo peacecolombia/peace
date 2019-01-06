@@ -16,7 +16,8 @@ lang: en
 
 * A second meeting of the group took place in Bogotá Colombia, in November 2017. This meeting was organized by the Alexander von Humboldt Institute. 
 
-## Future meetings
+* Integration of earth observations for biodiversity decision making in Colombia. Bogotá, July 18th-19th, 2018. Organized by Temple University and the Alexander von Humboldt Institute.
 
-* Integration of earth observations for biodiversity decision making in Colombia. Bogotá, July 18th-19th, 2018. Organized by Temple University and the Alexander von Humboldt Institute. Contact: Victor Gutierrez (tug61163@temple.edu).
+## Future meetings
+There are no meetings planned at this moment. Future meetings will be announced here. 
 
